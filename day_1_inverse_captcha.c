@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 
 size_t captcha_sum(char* captcha, size_t step) {
   size_t captcha_len = strlen(captcha);
-  if (step == 0) {
+  if (!step) {
     step = captcha_len/2;
   }
 
