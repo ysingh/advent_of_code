@@ -1,2 +1,3 @@
-Solutions to the Advent of Code programming puzzles. These problems are a lot of fun!
+Solutions to the Advent of Code programming puzzles.
 https://adventofcode.com/2017
+
