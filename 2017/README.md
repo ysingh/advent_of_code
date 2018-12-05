@@ -1,6 +1,6 @@
 Solutions for 2017
 https://adventofcode.com/2017
-1. [Day 1: C](2017/day_1/README.md)
+1. [Day 1: C](day_1/README.md)
 2. [Day 2: Rust](day_2/README.md)
 3. Lua
 4. Racket
