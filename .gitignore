@@ -68,3 +68,7 @@ dkms.conf
 # Cargo & Rust
 */target/
 **/*.rs.bk
+
+
+# out
+**/*.out
